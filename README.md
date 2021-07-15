@@ -9,3 +9,5 @@ Dashboard provides a view of KPI in a clear way. Analyzing a data set and extrac
 **Tech Stack Used:**
 1. Watson Studio, component of IBM Cloud Pak for Data
 2. Jupyter Notebooks
+
+APIs used for the project to obtain the stock ticker and extract information about the stock: y-finance API 
